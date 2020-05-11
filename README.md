@@ -1,5 +1,5 @@
-MaterialsLink[http://material.io/]
+MaterialsLink[http://material.io]
 
-MaterialsLink[http://fontfabric.com/]
+MaterialsLink[http://fontfabric.com]
 
-MaterialsLink[http://fontawesome.com/]
+MaterialsLink[http://fontawesome.com]
